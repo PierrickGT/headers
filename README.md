@@ -20,9 +20,7 @@ cargo install --path .
 ```
 
 ```sh
-/*//////////////////////////////////////////////////////////////
-                           TESTING 123
-//////////////////////////////////////////////////////////////*/
+/* ============ 123 ============ */
 ```
 
 It will also copy the header to your clipboard automatically.
@@ -71,4 +69,4 @@ This will copy the generated header to your clipboard.
 
 ## Credits
 
-Inspired by virtualjpeg's [`blocky`](https://github.com/virtualjpeg/blocky).
+Inspired by transmissions11's [`headers`](https://github.com/transmissions11/headers).
